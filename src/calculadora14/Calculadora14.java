@@ -1,3 +1,8 @@
+/**
+Clase calculadora con metodos simples como sumar, restar etc.
+Autor: Oier Morate
+*/
+
 package calculadora14;
 
 public class Calculadora14 {
